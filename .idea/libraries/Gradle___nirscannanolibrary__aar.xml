@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: :nirscannanolibrary:@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0ddbb57c1ea19c00b348e67e07f146eb/nirscannanolibrary/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0ddbb57c1ea19c00b348e67e07f146eb/nirscannanolibrary/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
